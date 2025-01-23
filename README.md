@@ -10,7 +10,7 @@ This repository is designed as a quick way to view certificates I have earned.
 
 ## Table of Contents
 
-1. [Scrimba Front End Developer Career Path](#Scrimba)
+1. [Scrimba Frontend Developer Career Path](#Scrimba)
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
@@ -23,7 +23,7 @@ This repository is designed as a quick way to view certificates I have earned.
 
 ## Scrimba
 
-Provide a brief overview of your project, its purpose, and why it was created.
+Curriculum curated by Mozilla MDN to ensure that it always aligns with the latest industry standards and best practices for modern frontend development.  Includes building dozens of portfolio projects, and 100s of interactive challenges.  
 
 ![Image](https://github.com/user-attachments/assets/fcd44f76-7fcb-4b32-9972-a6bc270ea769)
 
