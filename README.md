@@ -25,6 +25,8 @@ A brief description of your project.
 
 Provide a brief overview of your project, its purpose, and why it was created.
 
+![The Frontend Developer Career Path.pdf](https://github.com/user-attachments/files/18520442/The.Frontend.Developer.Career.Path.pdf)
+
 ---
 
 ## Features
