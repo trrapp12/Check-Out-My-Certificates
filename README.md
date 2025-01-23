@@ -8,7 +8,7 @@ A repository of my training certificates
 ## Table of Contents
 
 1. [Scrimba Frontend Developer Career Path](#Scrimba)
-2. [Google Data Analytics](#Data)
+2. [Google Data Analytics](#Google)
 3. [freeCodeCamp](#freeCodeCamp)
 
 
