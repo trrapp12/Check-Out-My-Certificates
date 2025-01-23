@@ -1,4 +1,4 @@
-# Check-Out-My-Certificates
+# Certificates
 
 A repository of my training certificates
 
