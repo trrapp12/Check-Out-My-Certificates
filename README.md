@@ -11,7 +11,7 @@ This repository is designed as a quick way to view certificates I have earned.
 ## Table of Contents
 
 1. [Scrimba Frontend Developer Career Path](#Scrimba)
-2. [freeCodeCamp](#freeCodeCamp)
+2. [freeCodeCamp](#freeCodeCamp (Responsive Web Design))
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Configuration](#configuration)
