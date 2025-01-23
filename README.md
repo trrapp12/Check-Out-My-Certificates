@@ -17,7 +17,9 @@ A repository of my training certificates
 
 ## Scrimba
 
-Curriculum curated by Mozilla MDN to ensure that it always aligns with the latest industry standards and best practices for modern frontend development.  Includes building dozens of portfolio projects, and 100s of interactive challenges.  
+Curriculum curated by Mozilla MDN to ensure that it always aligns with the latest industry standards and best practices for modern frontend development.  Includes building dozens of portfolio projects, and 100s 
+
+of interactive challenges.  
 
 ![Image](https://github.com/user-attachments/assets/fcd44f76-7fcb-4b32-9972-a6bc270ea769)
 
