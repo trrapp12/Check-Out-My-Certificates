@@ -10,7 +10,7 @@ A brief description of your project.
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Scrimba: Front End Developer](#Scrimba: Front End Developer)
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
@@ -21,7 +21,7 @@ A brief description of your project.
 
 ---
 
-## Introduction
+## Scrimba: Front End Developer
 
 Provide a brief overview of your project, its purpose, and why it was created.
 
