@@ -11,7 +11,7 @@ This repository is designed as a quick way to view certificates I have earned.
 ## Table of Contents
 
 1. [Scrimba Frontend Developer Career Path](#Scrimba)
-2. [Features](#features)
+2. [freeCodeCamp](#freeCodeCamp)
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Configuration](#configuration)
@@ -29,10 +29,9 @@ Curriculum curated by Mozilla MDN to ensure that it always aligns with the lates
 
 ---
 
-## Features
+## freeCodeCamp (Responsive Web Design)
 
-- List key features of your project
-- Highlight unique or important functionality
+![Image](https://github.com/user-attachments/assets/d7328f09-a458-4848-87c2-8d0919082f20)
 
 ---
 
