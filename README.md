@@ -25,7 +25,13 @@ Curriculum curated by Mozilla MDN to ensure that it always aligns with the lates
 
 ## Google
 
-Step-by-step instructions on how to set up your project:
+Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
+
+Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau) 
+
+Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
+
+Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
 
 ![Image](https://github.com/user-attachments/assets/02148e51-ef2f-4d99-8f16-8007af3bf35f)
 
