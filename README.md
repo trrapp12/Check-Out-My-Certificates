@@ -1,10 +1,7 @@
 # Check-Out-My-Certificates
-a collection of certificates for prospective employers to check-out
 
+A repository of my training certificates
 
-# Project Name
-
-This repository is designed as a quick way to view certificates I have earned.
 
 ---
 
@@ -13,11 +10,7 @@ This repository is designed as a quick way to view certificates I have earned.
 1. [Scrimba Frontend Developer Career Path](#Scrimba)
 2. [freeCodeCamp](#freeCodeCamp)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+
 
 ---
 
