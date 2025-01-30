@@ -7,11 +7,18 @@ A repository of my training certificates
 
 ## Table of Contents
 
-1. [Scrimba Frontend Developer Career Path](#Scrimba)
-2. [Google Data Analytics](#Google)
-3. [freeCodeCamp](#freeCodeCamp)
+1. [The Hard Parts of Functional JavaScript](#JavaScript)
+2. [Scrimba Frontend Developer Career Path](#Scrimba)
+3. [Google Data Analytics](#Google)
+4. [freeCodeCamp](#freeCodeCamp)
 
+---
 
+## JavaScript
+
+Explore the increasingly popular paradigm of functional programming in JavaScript! You’ll learn how to wield and manipulate functions to develop more readable, maintainable and manageable codebases. You’ll go under the hood of powerful techniques like: Higher Order Functions, Function Composition, Pure Functions, and Immutability of State.
+
+![Image](https://github.com/user-attachments/assets/f88d5dc6-aa40-4bb3-acf4-3469a234982b)
 
 ---
 
